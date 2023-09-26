@@ -5,6 +5,8 @@
         - Then add another Number to this same variable and print it out.
 */
 let name = "Sherwin";
-console.log(name + " Tajan")
+name +=" Tajan"
+console.log(name)
 let age = 11;
-console.log(age + 10);
+age += 10
+console.log(age);
