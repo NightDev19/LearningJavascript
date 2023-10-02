@@ -12,4 +12,8 @@ console.log(4 !== 5);
 
 // boolean mathematical operators
 console.log('=================');
-console.log();console.log();
+console.log(9 > 7);
+console.log(6 < 5);
+console.log(3 < 3);
+console.log(3 <= 3);
+console.log(4 >= 2);
